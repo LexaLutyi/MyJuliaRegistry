@@ -1,0 +1,6 @@
+name = "MyJuliaRegistry"
+uuid = "33688180-7f44-4de7-8754-061af9fbc328"
+repo = "git@github.com:LexaLutyi/MyJuliaRegistry.git"
+description = "My private registry"
+
+[packages]
