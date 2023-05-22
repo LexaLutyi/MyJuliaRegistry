@@ -1,0 +1,3 @@
+name = "DistributedControlSystems"
+uuid = "d14b68a6-6005-4866-9a10-8ceb977a395a"
+repo = "git@github.com:LexaLutyi/DistributedControlSystems.jl.git"
