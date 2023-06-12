@@ -5,6 +5,7 @@ description = "My private registry"
 
 [packages]
 2adb0577-9a9d-4690-a5e9-28296fd30ae0 = { name = "BiologyNetworkModels", path = "B/BiologyNetworkModels" }
+44bb7972-da25-4089-802e-d3afb760c9fe = { name = "TradeGame", path = "T/TradeGame" }
 995f4f89-f633-4bea-be3c-9aca61510b0b = { name = "DataNetworkModels", path = "D/DataNetworkModels" }
 c12848ba-5c2f-4249-8dfa-3c7bcec18efc = { name = "ImageReconstruction", path = "I/ImageReconstruction" }
 d14b68a6-6005-4866-9a10-8ceb977a395a = { name = "DistributedControlSystems", path = "D/DistributedControlSystems" }
