@@ -1,0 +1,3 @@
+name = "LibWebSockets"
+uuid = "fcb5309f-8123-4a11-8e81-3d7aa8197287"
+repo = "git@github.com:LexaLutyi/LibWebSockets.jl.git"

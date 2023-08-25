@@ -14,3 +14,4 @@ b6b84edf-6aef-5ff6-9b66-656961a84a09 = { name = "libwebsockets_jll", path = "jll
 c12848ba-5c2f-4249-8dfa-3c7bcec18efc = { name = "ImageReconstruction", path = "I/ImageReconstruction" }
 d14b68a6-6005-4866-9a10-8ceb977a395a = { name = "DistributedControlSystems", path = "D/DistributedControlSystems" }
 f4bcb1d6-c0ed-4dc9-85bd-6dd0de3f2993 = { name = "EvolutionSimulation", path = "E/EvolutionSimulation" }
+fcb5309f-8123-4a11-8e81-3d7aa8197287 = { name = "LibWebSockets", path = "L/LibWebSockets" }
