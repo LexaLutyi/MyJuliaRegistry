@@ -1,0 +1,3 @@
+name = "pkg_nghttp2_jll"
+uuid = "91051c40-0abb-5436-a319-2a0e1953d948"
+repo = "https://github.com/LexaLutyi/pkg_nghttp2_jll.jl.git"
