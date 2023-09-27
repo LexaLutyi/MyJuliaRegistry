@@ -9,6 +9,7 @@ description = "My private registry"
 44bb7972-da25-4089-802e-d3afb760c9fe = { name = "TradeGame", path = "T/TradeGame" }
 91051c40-0abb-5436-a319-2a0e1953d948 = { name = "pkg_nghttp2_jll", path = "jll/P/pkg_nghttp2_jll" }
 995f4f89-f633-4bea-be3c-9aca61510b0b = { name = "DataNetworkModels", path = "D/DataNetworkModels" }
+a3500760-7915-57d1-8b68-47e548e93688 = { name = "LibCURL3_jll", path = "jll/L/LibCURL3_jll" }
 a8bcf8b1-64b8-41f7-8d00-5e694f9aa795 = { name = "HttpClient", path = "H/HttpClient" }
 a9341e5c-07f0-4893-8fea-80ee6f4ebcc7 = { name = "LibCURL2", path = "L/LibCURL2" }
 b6b84edf-6aef-5ff6-9b66-656961a84a09 = { name = "libwebsockets_jll", path = "jll/L/libwebsockets_jll" }
